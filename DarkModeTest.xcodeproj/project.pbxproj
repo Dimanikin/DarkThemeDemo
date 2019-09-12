@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CE470A4E23228E6B004A5A71 /* MainTabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE470A4D23228E6B004A5A71 /* MainTabBarController.swift */; };
+		CE470A50232294F1004A5A71 /* FavouriteNewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE470A4F232294F1004A5A71 /* FavouriteNewController.swift */; };
 		CE71E22A232143F700AF96D0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE71E229232143F700AF96D0 /* AppDelegate.swift */; };
 		CE71E22C232143F700AF96D0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE71E22B232143F700AF96D0 /* SceneDelegate.swift */; };
 		CE71E22E232143F700AF96D0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE71E22D232143F700AF96D0 /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CE470A4D23228E6B004A5A71 /* MainTabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabBarController.swift; sourceTree = "<group>"; };
+		CE470A4F232294F1004A5A71 /* FavouriteNewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavouriteNewController.swift; sourceTree = "<group>"; };
 		CE71E226232143F700AF96D0 /* DarkModeTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DarkModeTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE71E229232143F700AF96D0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CE71E22B232143F700AF96D0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +64,8 @@
 				CE71E22B232143F700AF96D0 /* SceneDelegate.swift */,
 				CE71E22D232143F700AF96D0 /* ViewController.swift */,
 				CE71E22F232143F700AF96D0 /* Main.storyboard */,
+				CE470A4D23228E6B004A5A71 /* MainTabBarController.swift */,
+				CE470A4F232294F1004A5A71 /* FavouriteNewController.swift */,
 				CE71E232232143F700AF96D0 /* Assets.xcassets */,
 				CE71E234232143F700AF96D0 /* LaunchScreen.storyboard */,
 				CE71E237232143F700AF96D0 /* Info.plist */,
@@ -140,6 +146,8 @@
 			files = (
 				CE71E22E232143F700AF96D0 /* ViewController.swift in Sources */,
 				CE71E22A232143F700AF96D0 /* AppDelegate.swift in Sources */,
+				CE470A50232294F1004A5A71 /* FavouriteNewController.swift in Sources */,
+				CE470A4E23228E6B004A5A71 /* MainTabBarController.swift in Sources */,
 				CE71E22C232143F700AF96D0 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
